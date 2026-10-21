@@ -1,0 +1,6 @@
+{
+  "name": "PhotoStudioParadise",
+  "description": "PhotoStudioParadise - Delhi's Premier Film, Pre-Wedding & Creative Photography Studio with 50+ Indoor & Outdoor Themed Sets in Qutabgarh, Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
